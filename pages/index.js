@@ -29,7 +29,7 @@ const Home = () => {
                 <p className="text-lg">Sign in to see your details</p>
                 <button
                     className="border rounded-md px-3 py-2 font-medium transition-all border-sky-500 text-sky-500 hover:bg-sky-500/20"
-                    onClick={() => signIn("google")}>
+                    onClick={() => signIn("github")}>
                     Sign In
                 </button>
             </div>
